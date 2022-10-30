@@ -32,19 +32,19 @@ body {
         align-self: center;
         margin-bottom: 3px;
     }
-    .names {
+    .titulo {
         float: left;
         align-self: center;
         margin-left: 10px;
         margin-bottom: 5px;
     }
-    .names > h1 {
+    .titulo > h1 {
         font-size: 15px;
         margin: 0px;
     
     }
     
-    .names > h2 {
+    .titulo > h2 {
         font-size: 14px;
         margin: 0px;
         font-weight: normal;
